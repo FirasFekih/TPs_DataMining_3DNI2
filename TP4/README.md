@@ -8,8 +8,7 @@
 - 🥅 2022 Goals: Finish my studies!
 - ⚡ Fun fact: I love Football, Chess and playing Harmonica 🤣
 
-### Connect with me: [<img align="center" alt="firasfekih | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="Firas Fékih | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+### Connect with me: [<img align="center" alt="firasfekih | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin][<img align="center" alt="Firas Fékih | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
 
