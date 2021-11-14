@@ -8,3 +8,5 @@
 > - Comparer les résultats.
 
 ###### Compte rendu :
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FirasFekih/TPs_DataMining_3DNI2/main?labpath=clustering.ipynb)
