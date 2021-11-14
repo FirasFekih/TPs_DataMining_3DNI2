@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="gravity-center" alt="firasfekih | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="gravity-center" alt="Firas Fékih | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-img {text-align: center;}
+[<img align="center" alt="firasfekih | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="Firas Fékih | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
 <br />
 
 ### Languages and Tools:
