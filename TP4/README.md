@@ -4,7 +4,7 @@
 
 ## I'm a Teleinformatics Engineering Student and CHESS instructor !
 
-- 🌱 I’m currently learning Frontend development 🤣
+- 🌱 I’m currently learning Front-end development 🤣
 - 👯 I’m looking for PFE internship.
 - 🥅 2022 Goals: Finish my studies!
 - ⚡ Fun fact: I love Football, Chess and playing Harmonica 🤣
